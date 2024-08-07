@@ -1,7 +1,4 @@
 import Documents from "@/components/Documents";
-
-
-
 export const dynamic = "force-dynamic";
 
 function Dashboard() {
